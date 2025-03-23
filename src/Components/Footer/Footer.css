@@ -1,0 +1,19 @@
+.footer {
+    height:70px;
+    padding: 10px;
+    background-color:#022B3A;
+    color:#E1E5F2;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    gap: 57%;
+}
+.footerImg {
+    flex-direction: row;
+    align-self: center;
+    width: 300px;
+}
+.footerTxt {
+    flex-direction: row;
+    align-self: center;
+    align-self: right;
+}

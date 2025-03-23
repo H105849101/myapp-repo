@@ -1,0 +1,31 @@
+.navBar {
+    background-color:#022B3A;
+    color:#E1E5F2;
+    overflow: hidden;
+}
+
+.navBar a {
+    float: left;
+  color: #E1E5F2;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: JockeyOne;
+}
+
+.navBar a:hover {
+    background-color: #E1E5F2;
+    color:#022B3A;
+}
+
+.navBar input[type=text] {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 25px;
+    border: none;
+    font-size: 17px;
+    width: 300px;
+    align-self: center;
+  }

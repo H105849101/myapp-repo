@@ -7,6 +7,11 @@
   pointer-events: none;
 }
 
+@font-face {
+  font-family: "JockeyOne";
+  src: url('./Assets/Fonts/JockeyOne-Regular.ttf');
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -36,3 +41,23 @@
     transform: rotate(360deg);
   }
 }
+
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+  .app {
+    padding: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 14px;
+  }
+
+  .app {
+    padding: 5px;
+  }
+}
+
