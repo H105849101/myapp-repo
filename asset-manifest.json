@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/myapp-repo/static/css/main.18c37d9f.css",
+    "main.js": "/myapp-repo/static/js/main.b0853506.js",
+    "static/js/453.64512fd7.chunk.js": "/myapp-repo/static/js/453.64512fd7.chunk.js",
+    "static/media/5452996_Coll_wavebreak_People_1280x720.mp4": "/myapp-repo/static/media/5452996_Coll_wavebreak_People_1280x720.3813093268a78ecb866c.mp4",
+    "static/media/basketball-court-with-copy-space copy.png": "/myapp-repo/static/media/basketball-court-with-copy-space copy.9f6fe7fb66b780ad51e6.png",
+    "static/media/Screenshot 2025-02-03 at 3.22.55 pm.png": "/myapp-repo/static/media/Screenshot 2025-02-03 at 3.22.55 pm.521f1e20a27d664bd1db.png",
+    "static/media/Untitled-1.png": "/myapp-repo/static/media/Untitled-1.85f79a0895fa702bd85e.png",
+    "static/media/side-view-female-friends-playing-basketball copy.png": "/myapp-repo/static/media/side-view-female-friends-playing-basketball copy.a89c78225c2a79ebe002.png",
+    "static/media/medium-shot-female-friends-playing-basketball copy.png": "/myapp-repo/static/media/medium-shot-female-friends-playing-basketball copy.d599acb122dc93ac04a8.png",
+    "static/media/side-view-female-friends-playing-basketball (1).png": "/myapp-repo/static/media/side-view-female-friends-playing-basketball (1).741428c756412e2d1326.png",
+    "static/media/LeaderBoard.png": "/myapp-repo/static/media/LeaderBoard.73de2533e5b9320c6626.png",
+    "static/media/model-photoshoot-with-basketball copy.png": "/myapp-repo/static/media/model-photoshoot-with-basketball copy.a1e9841ad8d6f1be6083.png",
+    "static/media/front-view-girl-holding-basketball-ball copy.png": "/myapp-repo/static/media/front-view-girl-holding-basketball-ball copy.93b21a31977886ba6bd1.png",
+    "static/media/girl-with-ball copy.png": "/myapp-repo/static/media/girl-with-ball copy.a5e4c01e3d48c6cbbcb5.png",
+    "static/media/medium-shot-woman-training-basketball copy.png": "/myapp-repo/static/media/medium-shot-woman-training-basketball copy.6e898e811cdb62c979f9.png",
+    "static/media/beautiful-young-fit-african-sportswoman-isolated-white-wall-holding-basketball copy.png": "/myapp-repo/static/media/beautiful-young-fit-african-sportswoman-isolated-white-wall-holding-basketball copy.9a2492af6954f81986a3.png",
+    "static/media/young-brazilian-girl-isolated-blue-wall-playing-basketball copy.png": "/myapp-repo/static/media/young-brazilian-girl-isolated-blue-wall-playing-basketball copy.ebfcaed8492852b23c63.png",
+    "static/media/smiley-woman-with-basketball-ball copy.png": "/myapp-repo/static/media/smiley-woman-with-basketball-ball copy.8ea45050141b16af29e4.png",
+    "static/media/front-view-sporty-woman-with-basketball-ball copy.png": "/myapp-repo/static/media/front-view-sporty-woman-with-basketball-ball copy.ee52c42aab5ba7d2f259.png",
+    "static/media/JockeyOne-Regular.ttf": "/myapp-repo/static/media/JockeyOne-Regular.584844087b26cf82452d.ttf",
+    "static/media/poodle logo.png": "/myapp-repo/static/media/poodle logo.843b9d84f14f43c3c3f7.png",
+    "index.html": "/myapp-repo/index.html",
+    "main.18c37d9f.css.map": "/myapp-repo/static/css/main.18c37d9f.css.map",
+    "main.b0853506.js.map": "/myapp-repo/static/js/main.b0853506.js.map",
+    "453.64512fd7.chunk.js.map": "/myapp-repo/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c37d9f.css",
+    "static/js/main.b0853506.js"
+  ]
+}
