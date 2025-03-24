@@ -162,6 +162,7 @@
     background-color:#E1E5F2;
     height: 760px;
     gap:160px;
+    padding-bottom:70px;
 }
 .pHiLowImg {
     scale: 80%;
