@@ -123,7 +123,7 @@ function Main() {
                         <h3><b>Sasha:</b></h3>
                         <div className="custom-list">
                             <p>
-                            <li>Played really good defence, and <br /> blocked many shots during the game.</li>
+                            <li>Played really good defence, and blocked many shots during the game.</li>
                             <li>Ball handling was off in the last game</li>
                             </p>
                             </div>
@@ -132,8 +132,8 @@ function Main() {
                         <h3>Kira:</h3>
                         <div className="custom-list">
                         <p>
-                         <li>Made many good 3 pointers during <br />the game.</li>
-                         <li>Defence wasn’t as strong as it <br />could have been.</li>
+                         <li>Made many good 3 pointers during the game.</li>
+                         <li>Defence wasn’t as strong as it could have been.</li>
                         </p>
                         </div>
                         </div>
@@ -142,7 +142,7 @@ function Main() {
                         <div className="custom-list">
                         <p>
                          <li>Ball handling was spectacular.</li>
-                         <li>Made some questionable passes<br />in the game.</li>
+                         <li>Made some questionable passes in the game.</li>
                         </p>
                         </div>
                         </div>
@@ -151,8 +151,8 @@ function Main() {
                         <h3>Teagan:</h3>
                         <div className="custom-list">
                         <p>
-                         <li>Made some really good passes <br />during game.</li>
-                         <li>Shooting game could have <br />been better.</li>
+                         <li>Made some really good passes during game.</li>
+                         <li>Shooting game could have been better.</li>
                         </p>
                         </div>
                         </div>
@@ -162,7 +162,7 @@ function Main() {
                         <h3>Georgia:</h3>
                         <div className="custom-list">
                         <p>
-                         <li>Ball handling and passing <br />stood out in last game.</li>
+                         <li>Ball handling and passing stood out in last game.</li>
                          <li>Defence needs some work.</li>
                         </p>
                         </div>
