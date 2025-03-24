@@ -220,14 +220,18 @@ function Main() {
         <div className="tHiLowTxt">
         <h1 style={{fontFamily:"JockeyOne", fontSize:"45px"}}>Team Highlights and Lowlights</h1> <br />
                 <h3>Highlights:</h3>
+                <div className="custom-list">
                     <p>
                         <li>Players played really well as a team. Always knew where one another were, which helped set up some exceptional passes. </li>
                         <li>As a group defence was really good. They put lots of good pressure on opposing team.</li>
                     </p>
+                    </div>
                     <br />
                 <h3>Lowlights:</h3>
+                <div className="custom-list">
                     <li>As a team, ball handling needed some improvement in last game. Many players lost control multiple times during the game.</li>
                     <li>Most players shooting game was off, while we know there are some brilliant shooters on the team.</li>
+                    </div>
         </div>
         <div className="tHiLowImg">
             <img src={TeamImg} alt="Team Playing"></img>
