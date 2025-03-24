@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myapp-repo/static/css/main.18c37d9f.css",
+    "main.css": "/myapp-repo/static/css/main.1118fbb7.css",
     "main.js": "/myapp-repo/static/js/main.b085b7f7.js",
     "static/js/453.64512fd7.chunk.js": "/myapp-repo/static/js/453.64512fd7.chunk.js",
     "static/media/5452996_Coll_wavebreak_People_1280x720.mp4": "/myapp-repo/static/media/5452996_Coll_wavebreak_People_1280x720.3813093268a78ecb866c.mp4",
@@ -22,12 +22,12 @@
     "static/media/JockeyOne-Regular.ttf": "/myapp-repo/static/media/JockeyOne-Regular.584844087b26cf82452d.ttf",
     "static/media/poodle logo.png": "/myapp-repo/static/media/poodle logo.843b9d84f14f43c3c3f7.png",
     "index.html": "/myapp-repo/index.html",
-    "main.18c37d9f.css.map": "/myapp-repo/static/css/main.18c37d9f.css.map",
+    "main.1118fbb7.css.map": "/myapp-repo/static/css/main.1118fbb7.css.map",
     "main.b085b7f7.js.map": "/myapp-repo/static/js/main.b085b7f7.js.map",
     "453.64512fd7.chunk.js.map": "/myapp-repo/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18c37d9f.css",
+    "static/css/main.1118fbb7.css",
     "static/js/main.b085b7f7.js"
   ]
 }
